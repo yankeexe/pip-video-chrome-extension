@@ -2,7 +2,8 @@
 
 Watch videos in Picture-in-Picture mode.
 
-<img src="https://i.imgur.com/BI3gLJW.gif" width="800">
+<img src="https://github.com/user-attachments/assets/c0d1025f-272d-4bb3-94b4-c2929da8779b" width="800">
+
 
 ## Usage
 1. Load the extension in Chrome via `chrome://extensions` > "Load unpacked".
