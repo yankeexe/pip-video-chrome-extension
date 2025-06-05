@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Picture-in-Picture Button",
+    "version": "1.0",
+    "description": "Open the main video in Picture-in-Picture mode from the extension toolbar.",
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "action": {
+        "default_title": "Open video in Picture-in-Picture"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "icons/floats.png",
+        "32": "icons/floats.png",
+        "48": "icons/floats.png",
+        "128": "icons/floats.png"
+    }
+}

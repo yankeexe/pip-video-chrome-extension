@@ -1,0 +1,26 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node_modules if ever used
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts (not used, but safe)
+dist/
+build/
+
+# Ignore Chrome extension local dev artifacts
+*.crx
+*.pem
+
+# Ignore OS swap and temp files
+*.swp
+*.tmp
+
+# Ignore user-specific Copilot instructions
+.github/
